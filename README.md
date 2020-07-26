@@ -1,8 +1,10 @@
-# StoryBooks
+# 📖 StoryBooks &nbsp; ![](https://img.shields.io/github/deployments/iampavangandhi/Storybooks/storybooks-web?color=2648ff&style=flat-square)
 
 > Create public and private stories from your life
 
 This app uses Node.js/Express/MongoDB with Handlebars for templating and Google OAuth for authentication
+
+### WebApp Live at [https://storybooks-web.herokuapp.com/](https://storybooks-web.herokuapp.com/)
 
 ## Tutorial
 
@@ -23,4 +25,10 @@ npm run dev
 npm start
 ```
 
-### Project Credit @ [Brad Traversy](https://github.com/bradtraversy)
+## Deployment
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+## Credit
+
+### [Brad Traversy](https://github.com/bradtraversy)

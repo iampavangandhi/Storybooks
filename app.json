@@ -1,0 +1,6 @@
+{
+  "name": "storybooks-web",
+  "description": "Create public and private stories from your life",
+  "repository": "https://github.com/iampavangandhi/Storybooks",
+  "keywords": ["node", "express", "static"]
+}
