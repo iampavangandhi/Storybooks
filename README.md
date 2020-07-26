@@ -31,6 +31,10 @@ npm start
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+## License
+
+[MIT](LICENSE) © Pavan Gandhi
+
 ## Credit
 
 ### [Brad Traversy](https://github.com/bradtraversy)
