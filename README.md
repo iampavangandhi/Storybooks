@@ -2,14 +2,17 @@
 
 > Create public and private stories from your life
 > #### WebApp Live at [https://storybooks-web.herokuapp.com/](https://storybooks-web.herokuapp.com/)
+> #### Checkout TheNodeCourse at [https://github.com/iampavangandhi/TheNodeCourse](https://github.com/iampavangandhi/TheNodeCourse)
+
+<br />
 
 This app uses Node.js/Express/MongoDB with Handlebars for templating and Google OAuth for authentication
 
-## Tutorial
+## Project Tutorial
 
 ### Complete Tutorial (2.5hrs Long) by [Brad Traversy](https://github.com/bradtraversy): ⏩ [**Youtube Link**](https://youtu.be/SBvmnHTQIPY)
 
-## Usage
+## Development
 
 Add your MongoDB URI and Google OAuth credentials to the config.env file see config.env.example for details or just run <code>npm run postinstall</code>.
 
