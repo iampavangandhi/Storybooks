@@ -6,7 +6,7 @@
 
 <br />
 
-This app uses Node.js/Express/MongoDB with Handlebars for templating and Google OAuth for authentication
+#### This app uses Node.js/Express/MongoDB with Handlebars for templating and Google OAuth for authentication
 
 ## Project Tutorial
 
@@ -14,7 +14,7 @@ This app uses Node.js/Express/MongoDB with Handlebars for templating and Google 
 
 ## Development
 
-Add your MongoDB URI and Google OAuth credentials to the config.env file see config.env.example for details or just run <code>npm run postinstall</code>.
+#### Add your MongoDB URI and Google OAuth credentials to the config.env file see config.env.example for details or just run <code>npm run postinstall</code>.
 
 ```sh
 # Install dependencies
