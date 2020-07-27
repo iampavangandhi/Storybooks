@@ -4,8 +4,6 @@
 > #### WebApp Live at [https://storybooks-web.herokuapp.com/](https://storybooks-web.herokuapp.com/)
 > #### Checkout TheNodeCourse at [https://github.com/iampavangandhi/TheNodeCourse](https://github.com/iampavangandhi/TheNodeCourse)
 
-<br />
-
 #### This app uses Node.js/Express/MongoDB with Handlebars for templating and Google OAuth for authentication
 
 ## Project Tutorial
