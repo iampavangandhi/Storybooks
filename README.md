@@ -25,9 +25,30 @@ npm run dev
 npm start
 ```
 
+## Folder Structure
+
+    .
+    ├── 📁 config                  # Config files
+    ├── 📁 helpers                 # Hbs helper files
+    ├── 📁 middleware              # Expresss middlewares
+    ├── 📁 models                  # Mongoose models
+    ├── 📁 public                  # Public folder
+    │    └── 📁 css
+    ├── 📁 routes                  # Express routes
+    ├── 📁 scripts                 # Script files
+    └── 📁 views                   # Hbs views
+         ├── 📁 error
+         ├── 📁 layouts
+         ├── 📁 partials
+         └── 📁 stories
+
 ## Deployment
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+## Contributing
+
+Feel free to dive in! [Open an issue](https://github.com/iampavangandhi/Storybooks/issues/new) or submit PRs
 
 ## License
 
